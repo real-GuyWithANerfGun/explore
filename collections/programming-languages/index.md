@@ -57,6 +57,7 @@ items:
 - ChavaScript/chavascript
 - DennisMitchell/jellylanguage
 - beefytech/Beef
+- adobe/as3
 display_name: Programming languages
 created_by: leereilly
 ---
